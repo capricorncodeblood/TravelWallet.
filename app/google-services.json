@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233736966321",
+    "firebase_url": "https://happyclient-ea520.firebaseio.com",
+    "project_id": "happyclient-ea520",
+    "storage_bucket": "happyclient-ea520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233736966321:android:1f3623bda3928b84799290",
+        "android_client_info": {
+          "package_name": "com.app.safariwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233736966321-8n3u3r0ah3b2df1g31ufpu36tmch47k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Cwg4LdkeFFFfVGBayfpDORDJbRktTTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233736966321-8n3u3r0ah3b2df1g31ufpu36tmch47k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
